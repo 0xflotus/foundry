@@ -62,7 +62,7 @@
     "pkg-up": "^3.1.0",
     "plop": "^2.1.0",
     "prettier": "^1.15.2",
-    "semantic-release": "^16.0.0",
+    "semantic-release": "^17.2.3",
     "yargs": "^12.0.5"
   },
   "devDependencies": {
